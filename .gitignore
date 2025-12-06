@@ -1,0 +1,21 @@
+# Config files with passwords
+/config/database.php
+
+# Composer
+/vendor/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
